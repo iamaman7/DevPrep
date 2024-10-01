@@ -1,0 +1,1 @@
+[{"status":"pass"},{"status":"pass"},{"status":"error","error":"expected div#block-example to have style property display equal to inline, but it was equal to block"},{"status":"error","error":"expected span#inline-example to have style property display equal to block, but it was equal to inline"},{"status":"pass"}]
